@@ -1,0 +1,30 @@
+{
+  "files.autoSave": "afterDelay",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "editor.renderControlCharacters": false,
+  "window.menuBarVisibility": "toggle",
+  "extensions.ignoreRecommendations": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "window.zoomLevel": 0,
+  "editor.fontSize": 14,
+  "files.eol": "\n",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": false,
+  "files.insertFinalNewline": true,
+  "workbench.colorCustomizations": {
+    "editorIndentGuide.activeBackground": "#C792EA",
+    "editorError.foreground": "#00ff00"
+  },
+  "materialTheme.fixIconsRunning": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.sortOrder": "type",
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "workbench.colorTheme": "Monokai",
+  "breadcrumbs.enabled": true,
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
