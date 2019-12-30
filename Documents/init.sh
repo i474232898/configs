@@ -27,3 +27,6 @@ git clone https://github.com/rupa/z.git ~/Documents/local_apps
 # nvm
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
 
+# docker
+brew cask install docker
+

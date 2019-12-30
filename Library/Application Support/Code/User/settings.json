@@ -7,7 +7,7 @@
   "extensions.ignoreRecommendations": false,
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   "editor.fontSize": 14,
   "files.eol": "\n",
   "explorer.confirmDragAndDrop": false,
@@ -26,5 +26,7 @@
   },
   "workbench.colorTheme": "Monokai",
   "breadcrumbs.enabled": true,
-  "javascript.updateImportsOnFileMove.enabled": "always"
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.startupEditor": "newUntitledFile",
+  "typescript.updateImportsOnFileMove.enabled": "always"
 }
